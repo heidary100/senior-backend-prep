@@ -1,9 +1,3 @@
-
----
-
-# 02_typescript_mastery/README.md
-
-```markdown
 # TypeScript Mastery for Senior Backend Engineers
 
 Understanding TypeScript deeply is crucial for NestJS projects at scale.
